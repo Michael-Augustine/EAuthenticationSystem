@@ -9,3 +9,9 @@ Creating A WebPage to Authenting User's Via OTP from Scratch
 * Sending OTP To the User's Device 
 * Comparing The OTP
 * Let The User In
+
+## Languages 
+
+* PHP
+
+* MySQL
