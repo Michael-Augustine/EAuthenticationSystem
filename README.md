@@ -13,5 +13,16 @@ Creating A WebPage to Authenting User's Via OTP from Scratch
 ## Languages 
 
 * PHP
-
 * MySQL
+
+## What Language I Knwo !
+
+* Basic HTML
+* Basic MySQL
+
+## Things I Have to Learn To Finish The Project
+
+* PHP
+* MySQL
+* HTML
+
